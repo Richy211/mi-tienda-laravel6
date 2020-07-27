@@ -21,7 +21,7 @@
       <div class="card">
         <div class="card-header">
           <h3 class="card-title">Administracion de Categorias </h3>
-  <p>Hola saludos</p>
+
           <div class="card-tools">
             <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
               <i class="fas fa-minus"></i></button>
