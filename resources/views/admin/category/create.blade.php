@@ -19,8 +19,8 @@
 
       <!-- Default box -->
       <div class="card">
-        <div class="card-header">
-          <h3 class="card-title">Creando cambios a las categorias </h3>
+        <!-- <div class="card-header"> -->
+          <h3 class="card-title">Creando las categorias </h3>
   <p>Hola mundo desde VS code</p>
           <div class="card-tools">
             <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
