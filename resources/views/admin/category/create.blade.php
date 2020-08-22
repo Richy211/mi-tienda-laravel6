@@ -20,7 +20,7 @@
       <!-- Default box -->
       <div class="card">
         <div class="card-header">
-          <h3 class="card-title">Cambiando las categorias </h3>
+          <h3 class="card-title">Creando cambios a las categorias </h3>
   <p>Hola mundo desde VS code</p>
           <div class="card-tools">
             <button type="button" class="btn btn-tool" data-card-widget="collapse" data-toggle="tooltip" title="Collapse">
@@ -62,7 +62,7 @@
         <!-- /.card-body -->
         <div class="card-footer">
 
-          <a class="btn btn-danger" href="{{ route('cancelar','admin.category.index') }}">Cancelar</a>
+          <a class="btn btn-danger" href="{{ route('admin.category.index') }}">Cancelar</a>
 
 
                     <input 
