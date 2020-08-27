@@ -1,7 +1,7 @@
 @extends('plantilla.admin')
 
 
-@section('titulo', 'Administración de productos')
+@section('titulo', 'Administrador de productos')
 
 @section('breadcrumb')
   <li class="breadcrumb-item active">@yield('titulo')</li>
